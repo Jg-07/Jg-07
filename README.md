@@ -7,7 +7,7 @@
 
 #### Contact me : 
 [<img width="22px" src="https://user-images.githubusercontent.com/73826061/111095648-eed31700-8563-11eb-878e-0f1c28000974.png"/>][twitter]
-[<img width="22px" src="https://user-images.githubusercontent.com/73826061/111095648-eed31700-8563-11eb-878e-0f1c28000974.png"/>][linkedin]
+[<img width="22px" src="https://user-images.githubusercontent.com/73826061/111096925-93565880-8566-11eb-9658-9f41bc79b1e1.png"/>][linkedin]
 
 #### Language and Tools: 
 <div>
