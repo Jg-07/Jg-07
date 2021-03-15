@@ -6,7 +6,7 @@
 <br />
 
 #### Contact me : 
-[<img width="22px" src="https://user-images.githubusercontent.com/73826061/111095648-eed31700-8563-11eb-878e-0f1c28000974.png"/>[https://twitter.com/home]
+[<img width="22px" src="https://user-images.githubusercontent.com/73826061/111095648-eed31700-8563-11eb-878e-0f1c28000974.png"/>][twitter]
 
 #### Language and Tools: 
 <div>
