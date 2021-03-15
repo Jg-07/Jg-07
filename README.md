@@ -6,9 +6,8 @@
 <br/>
 ## Skills Experienced : 
 
-img(https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png);
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
-
+![image](https://user-images.githubusercontent.com/73826061/111089502-3781d480-8552-11eb-9419-2488c34eff7d.png)
+![image](https://user-images.githubusercontent.com/73826061/111090047-42d5ff80-8554-11eb-8611-f556fd34b8b3.png)
 
 <!---
 Jg-07/Jg-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
