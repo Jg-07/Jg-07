@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jai Ganesh</h1>
 <h3 align="center">A Tech-Neophile and Programmer</h3>
+---
 
 - 🌱 I’m currently learning **JS, CSS flexbox,**
 
