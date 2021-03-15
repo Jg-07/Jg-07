@@ -1,22 +1,24 @@
-- 👋 Hi, I’m @Jg-07
-- 👀 I’m interested to be a full stack developer
-- 🌱 I’m currently learning CSS flexbox  + JS basics
-- 💞️ I’m looking to collaborate on projects with HTML,CSS,JS(DOM)
-- 📫 How to reach me through linked-in or Gmail
-<br />
+<h1 align="center">Hi 👋, I'm Jai Ganesh</h1>
+<h3 align="center">A Tech-Neophile and Programmer</h3>
 
-#### Contact me : 
-[<img width="22px" src="https://user-images.githubusercontent.com/73826061/111095648-eed31700-8563-11eb-878e-0f1c28000974.png"/>][twitter]
-[<img width="22px" src="https://user-images.githubusercontent.com/73826061/111096925-93565880-8566-11eb-9658-9f41bc79b1e1.png"/>][linkedin]
+- 🌱 I’m currently learning **JS, CSS flexbox,**
 
-#### Language and Tools: 
-<div>
-  
-<img src="https://user-images.githubusercontent.com/73826061/111089502-3781d480-8552-11eb-9419-2488c34eff7d.png" width= 40px hight=40px  style="padding=10px;"/>     <img src="https://user-images.githubusercontent.com/73826061/111090149-b4ae4900-8554-11eb-8494-277c7b0010f9.png" width= 40px hight=40px style="padding=10px;"/>      <img src="https://user-images.githubusercontent.com/73826061/111090130-9ea08880-8554-11eb-9c73-8b4c6a5ab0be.png"  width= 40px hight=40px style="padding=10px;"/>     <img src="https://user-images.githubusercontent.com/73826061/111090047-42d5ff80-8554-11eb-8611-f556fd34b8b3.png" width= 40px hight=40px style="padding=10px;"/>   <img src="https://user-images.githubusercontent.com/73826061/111093031-ce07c300-855d-11eb-812a-18b7e9161af7.png" width= 40px hight=40px style="padding=10px;"/>  <img src="https://user-images.githubusercontent.com/73826061/111094632-b4687a80-8561-11eb-911f-d50fa8c6c43a.png" width= 25px hight=25px style="padding=10px;"/> 
-</div>
+- 👯 I’m looking to collaborate on **many interesting programmers out there**
 
+- 🤝 I’m looking for help with **Frontend development**
 
-<!---
-Jg-07/Jg-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💬 Ask me about **Cpp, JS**
+
+- 📫 How to reach me **jaiastrobaskar@gmail.com**
+
+- ⚡ Fun fact **I think I am a kid in the dev world**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/jg07_xd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jg07_xd" height="30" width="40" /></a>
+<a href="https://twitter.com/g_t_q_jg_007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="g_t_q_jg_007" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jai ganesh baskar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jai ganesh baskar" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
