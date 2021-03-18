@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://dev.to/jg07_xd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jg07_xd" height="30" width="40" /></a>
 <a href="https://twitter.com/g_t_q_jg_007" target="blank"><img align="center" src="https://user-images.githubusercontent.com/73826061/111098132-d9acb700-8568-11eb-915d-38561436c591.png" alt="g_t_q_jg_007" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/jai ganesh baskar" target="blank"><img align="center" src="https://user-images.githubusercontent.com/73826061/111098003-a2d6a100-8568-11eb-9795-5833a82b7e6c.png" alt="jai ganesh baskar" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/jai-ganesh-baskar-a87b571ba" target="blank"><img align="center" src="https://user-images.githubusercontent.com/73826061/111098003-a2d6a100-8568-11eb-9795-5833a82b7e6c.png" alt="jai ganesh baskar" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
