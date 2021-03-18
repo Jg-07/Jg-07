@@ -27,6 +27,8 @@
 
 <details>
 <summary>⚡ GitHub Status : </summary>
+ ---
+  
 <img src="https://github-readme-stats.vercel.app/api?username=Jg-07" />
 </details>
 
