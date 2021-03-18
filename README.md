@@ -27,12 +27,12 @@
 <details>
 <summary>⚡ GitHub Status : </summary>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Jg-07&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jg-07&show_icons=true&theme=shades-of-purple" />
 </details>
 <br/<br/>
 <details>
 <summary>⚡ Languages Used : </summary>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jg-07&layout=compact&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jg-07&layout=compact&show_icons=true&theme=shades-of-purple" />
 </details>
 
