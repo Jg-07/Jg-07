@@ -33,6 +33,6 @@
 <details>
 <summary>⚡ Languages Used : </summary>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jg-07&layout=compact&show_icons=true&theme=shades-of-purple" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jg-07&layout=compact&show_icons=true&title_color=#ff8b52&icon_color=#ffac1c&text_color=#ff5400&bg_color=#16191f" />
 </details>
 
