@@ -26,7 +26,8 @@
 <p align="left">
 <a href="https://www.codewars.com/users/J_A_I_G07"><img src="https://www.codewars.com/users/J_A_I_G07/badges/large"/></a>
 </p>
---- 
+
+<hr>
 <details>
 <summary>⚡ GitHub Status : </summary>
 <br/>
