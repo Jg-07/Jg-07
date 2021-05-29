@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/jg07_xd" target="blank"><img src="https://img.shields.io/badge/dev-%23000000.svg?&style=for-the-badge&logo=dev&logoColor=white"/></a>
-<a href="https://twitter.com/g_t_q_jg_007" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://twitter.com/j_a_i_g_02" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/jai-ganesh-baskar-a87b571ba" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
