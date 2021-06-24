@@ -25,6 +25,8 @@
 <a href="https://twitter.com/j_a_i_g_02" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/jai-ganesh-baskar-a87b571ba" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<a href="jaiastrobaskar@gmail.com" target="blank"><img src="https://img.shields.io/badge/gmail-%23cc001f.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 <h3>Competative Coding :</h3>
