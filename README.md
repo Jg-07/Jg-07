@@ -71,3 +71,11 @@
 <h2 align="center">🤝 Contribution Stats</h2>
 
 [![Jai's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jg-07&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<entry>
+<title type="html">NUXtocat</title>
+<link href="https://octodex.github.com/nuxtocat/" rel="alternate" type="text/html" title="NUXtocat"/>
+<updated>2021-07-19T00:00:00+00:00</updated>
+<id>https://octodex.github.com/nuxtocat/</id>
+<content type="html"> <p> <a href="https://octodex.github.com/nuxtocat/"> <img src="https://octodex.github.com/images/NUX_Octodex.gif"/> </a> </p> <p>The <strong><a href="https://octodex.github.com/nuxtocat/">NUXtocat</a></strong> by cameronfoxly </p> </content>
+</entry>
