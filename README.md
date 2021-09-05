@@ -5,18 +5,17 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=Jg-07&color=blueviolet" align="center"><br>
 
-> 🌱 I’m currently learning **ES6 & Advanced DOM**
+- A Tech enthusiast 💡
+- Programmer 👨‍💻
+- Good at Problem Solving 🔧
+- Love to be a part of Space Innovations. 🌌
+- Hobby: Web development, Front End, Building Responsive Websites and also making projects like cloning of real-time websites. ⚙️
+- Love to be a part of startup ecosystem⛳
+- Love to work with a team.🤝
+- Good at Communication and Networking with people.🙋
 
-> 👯 I’m looking to collaborate on **many interesting programmers out there**
-
-> 🤝 I’m looking for help with **Frontend development**
-
-> 💬 Ask me about **Cpp, JS**
-
-> 📫 How to reach me **jaiastrobaskar@gmail.com**
-
-> ⚡ Fun fact **I think I am a kid in the dev world**
-
+<br/>
+<br/>
 
 <h2 align="center">🗣Languages  || 🔨Tools</h2>
 <p align="center">
@@ -45,6 +44,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+<br/>
+<br/>
+
 
 <h2 align="center">Get in Touch</h2>
 <p align="center">
@@ -57,10 +59,16 @@
   <a href="https://www.reddit.com/user/Existing_Sell7502" target="blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
 </p>
 
+<br/>
+<br/>
+
 <h2 align="center">🛡 Competative Coding</h2>
 <p align="center">
 <a href="https://www.codewars.com/users/J_A_I_G07"><img src="https://www.codewars.com/users/J_A_I_G07/badges/large"/></a>
 </p>
+
+<br/>
+<br/>
 
 <h2 align="center">⚡ GitHub Status</h2>
 <br/>
