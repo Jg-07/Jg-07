@@ -1,4 +1,4 @@
-![Hey This is Jai Ganesh (1)](https://user-images.githubusercontent.com/73826061/132097973-97040434-80b5-4df4-b7be-5bf2c1a7cd5d.gif)
+![tech](https://user-images.githubusercontent.com/73826061/132114763-0d283afd-46bc-461f-8993-2b57a9726fc5.gif)
 <h1 align="center">Hi 👋, I'm Jai Ganesh</h1>
 <h3 align="center">A Tech-Neophile and Programmer</h3>
 <h4 align="center">A Student at College of Engineering Guindy(Anna University) currently pursuing my 2nd year in Bachelor's of Mechanical Engineering.</h4>
