@@ -71,6 +71,3 @@
 <h2 align="center">🤝 Contribution Stats</h2>
 
 [![Jai's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jg-07&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center"><img src="https://octodex.github.com/images/Fintechtocat.png" width="60%"/></p>
-
