@@ -48,7 +48,7 @@
 <br/>
 
 
-<h2 align="center">Get in Touch</h2>
+<h2 align="center">Get in Touch 😃</h2>
 <p align="center">
   <a href="https://dev.to/jg07_xd" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jai-ganesh-baskar-a87b571ba" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
