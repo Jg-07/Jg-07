@@ -4,6 +4,8 @@
 <h4 align="center">Student at College of Engineering Guindy(Anna University) currently pursuing my 2nd year in Bachelor's of Mechanical Engineering.</h4>
 <br>
 <img src="https://komarev.com/ghpvc/?username=Jg-07&color=blueviolet" align="center"><br>
+<img alt="Gif" height="250px" align="right" src="coding.gif">
+
 
 - A Tech enthusiast 💡
 - Programmer 👨‍💻
