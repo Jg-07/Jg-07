@@ -9,7 +9,7 @@
 - Programmer 👨‍💻
 - Good at Problem Solving 🔧
 - Love to be a part of Space Innovations. 🌌
-- Hobby: Web development, Front End, Building Responsive Websites and also making projects like cloning of real-time websites. ⚙️
+- Hobby: Web development, Reading Books, Learning and building New Stuff😎
 - Love to be a part of startup ecosystem⛳
 - Love to work with a team.🤝
 - Good at Communication and Networking with people.🙋
