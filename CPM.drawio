@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T08:32:08.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" version="20.1.1" etag="vG0y4sUe2OyhoFzn-3Kh" type="github"><diagram id="KuURgz--QrR20P7z3eVJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-18T08:58:20.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="LhFw2qAW0IJ7V9BjO2eX" version="20.1.1" type="github">
+  <diagram id="KuURgz--QrR20P7z3eVJ" name="Page-1">
+    <mxGraphModel dx="1738" dy="1049" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#283618" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yvTYw81633kKv_xBMHwx-22" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=26;fontColor=#FEFAE0;strokeColor=#DDA15E;strokeWidth=5;fillColor=#BC6C25;" edge="1" parent="1" source="yvTYw81633kKv_xBMHwx-1" target="yvTYw81633kKv_xBMHwx-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTYw81633kKv_xBMHwx-23" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=26;fontColor=#FEFAE0;strokeColor=#DDA15E;strokeWidth=5;fillColor=#BC6C25;" edge="1" parent="1" source="yvTYw81633kKv_xBMHwx-1" target="yvTYw81633kKv_xBMHwx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTYw81633kKv_xBMHwx-24" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=26;fontColor=#FEFAE0;strokeColor=#DDA15E;strokeWidth=5;fillColor=#BC6C25;" edge="1" parent="1" source="yvTYw81633kKv_xBMHwx-1" target="yvTYw81633kKv_xBMHwx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTYw81633kKv_xBMHwx-27" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=26;fontColor=#FEFAE0;strokeColor=#DDA15E;strokeWidth=5;fillColor=#BC6C25;" edge="1" parent="1" source="yvTYw81633kKv_xBMHwx-1" target="yvTYw81633kKv_xBMHwx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTYw81633kKv_xBMHwx-28" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=26;fontColor=#FEFAE0;strokeColor=#DDA15E;strokeWidth=5;fillColor=#BC6C25;" edge="1" parent="1" source="yvTYw81633kKv_xBMHwx-1" target="yvTYw81633kKv_xBMHwx-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTYw81633kKv_xBMHwx-30" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=26;fontColor=#FEFAE0;strokeColor=#DDA15E;strokeWidth=5;fillColor=#BC6C25;" edge="1" parent="1" source="yvTYw81633kKv_xBMHwx-1" target="yvTYw81633kKv_xBMHwx-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTYw81633kKv_xBMHwx-32" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=26;fontColor=#FEFAE0;strokeColor=#DDA15E;strokeWidth=5;fillColor=#BC6C25;" edge="1" parent="1" source="yvTYw81633kKv_xBMHwx-1" target="yvTYw81633kKv_xBMHwx-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTYw81633kKv_xBMHwx-1" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="370" y="730" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTYw81633kKv_xBMHwx-2" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 35px;&quot;&gt;&lt;b&gt;CPM&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTYw81633kKv_xBMHwx-3" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontFamily=Tahoma;fontSize=35;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="730" y="440" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTYw81633kKv_xBMHwx-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Blower duct&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=35;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="737.5" y="440" width="195" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTYw81633kKv_xBMHwx-5" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontFamily=Tahoma;fontSize=35;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="730" y="580" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTYw81633kKv_xBMHwx-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Harness&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=35;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="737.5" y="580" width="195" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTYw81633kKv_xBMHwx-7" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontFamily=Tahoma;fontSize=35;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="727.5" y="720" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTYw81633kKv_xBMHwx-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Combi wire &amp;amp; Switch&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=35;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="761.25" y="740" width="162.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTYw81633kKv_xBMHwx-9" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontFamily=Tahoma;fontSize=35;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="730" y="880" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTYw81633kKv_xBMHwx-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;PCM&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=35;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="737.5" y="880" width="195" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTYw81633kKv_xBMHwx-11" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontFamily=Tahoma;fontSize=35;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="730" y="300" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTYw81633kKv_xBMHwx-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Blower duct&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=35;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="737.5" y="300" width="195" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTYw81633kKv_xBMHwx-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.kirchhoff-automotive.com/fileadmin/_processed_/6/c/csm_PKW_Armaturentafeltraeger_2_1fc3941070.jpg;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="980" width="425.94" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTYw81633kKv_xBMHwx-21" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=26;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;strokeWidth=5;" edge="1" parent="1" source="yvTYw81633kKv_xBMHwx-16" target="yvTYw81633kKv_xBMHwx-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTYw81633kKv_xBMHwx-16" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontFamily=Tahoma;fontSize=35;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1012" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTYw81633kKv_xBMHwx-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Steering Member&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=35;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="737.5" y="1012" width="195" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTYw81633kKv_xBMHwx-38" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Tahoma;fontSize=26;fontColor=#FEFAE0;strokeColor=#DDA15E;strokeWidth=5;fillColor=#BC6C25;" edge="1" parent="1" source="yvTYw81633kKv_xBMHwx-18" target="yvTYw81633kKv_xBMHwx-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTYw81633kKv_xBMHwx-18" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontFamily=Tahoma;fontSize=35;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1150" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTYw81633kKv_xBMHwx-19" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Steering column&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=35;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="737.5" y="1150" width="195" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yvTYw81633kKv_xBMHwx-37" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.nsk.com/company/news/2018/images/0604/a01.jpg;" vertex="1" parent="1">
+          <mxGeometry x="1256.31" y="1240" width="333.33" height="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
