@@ -1,92 +1,116 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T10:30:28.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="XoXSr63VZ97EEWVtTJTv" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-18T09:48:13.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="dzdoni10ZjJGr0UkHyki" version="20.1.1" type="github">
   <diagram id="cRw-VYWoPvHANDeG3xPr" name="Page-1">
-    <mxGraphModel dx="5743" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#283618" math="0" shadow="0">
+    <mxGraphModel dx="7446" dy="2360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#283618" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-7" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=64;fontColor=#FFD505;strokeColor=#DDA15E;fillColor=#BC6C25;strokeWidth=12;" edge="1" parent="1" source="abjZrDlXF4aJcoHiIfDN-1" target="abjZrDlXF4aJcoHiIfDN-3">
+        <mxCell id="abjZrDlXF4aJcoHiIfDN-7" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=64;fontColor=#FFD505;strokeColor=#DDA15E;fillColor=#BC6C25;strokeWidth=12;" parent="1" source="abjZrDlXF4aJcoHiIfDN-1" target="abjZrDlXF4aJcoHiIfDN-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-8" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=64;fontColor=#FFD505;strokeColor=#DDA15E;fillColor=#BC6C25;strokeWidth=12;" edge="1" parent="1" source="abjZrDlXF4aJcoHiIfDN-1" target="abjZrDlXF4aJcoHiIfDN-4">
+        <mxCell id="abjZrDlXF4aJcoHiIfDN-8" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=64;fontColor=#FFD505;strokeColor=#DDA15E;fillColor=#BC6C25;strokeWidth=12;" parent="1" source="abjZrDlXF4aJcoHiIfDN-1" target="abjZrDlXF4aJcoHiIfDN-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-10" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=64;fontColor=#FFD505;strokeColor=#DDA15E;fillColor=#BC6C25;strokeWidth=12;" edge="1" parent="1" source="abjZrDlXF4aJcoHiIfDN-1" target="abjZrDlXF4aJcoHiIfDN-5">
+        <mxCell id="abjZrDlXF4aJcoHiIfDN-10" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=64;fontColor=#FFD505;strokeColor=#DDA15E;fillColor=#BC6C25;strokeWidth=12;" parent="1" source="abjZrDlXF4aJcoHiIfDN-1" target="abjZrDlXF4aJcoHiIfDN-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-11" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=64;fontColor=#FFD505;strokeColor=#DDA15E;fillColor=#BC6C25;strokeWidth=12;" edge="1" parent="1" source="abjZrDlXF4aJcoHiIfDN-1" target="abjZrDlXF4aJcoHiIfDN-6">
+        <mxCell id="abjZrDlXF4aJcoHiIfDN-11" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=64;fontColor=#FFD505;strokeColor=#DDA15E;fillColor=#BC6C25;strokeWidth=12;" parent="1" source="abjZrDlXF4aJcoHiIfDN-1" target="abjZrDlXF4aJcoHiIfDN-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-44" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=36;fontColor=#FFFFFF;strokeColor=#DDA15E;strokeWidth=12;fillColor=#BC6C25;" edge="1" parent="1" source="abjZrDlXF4aJcoHiIfDN-1" target="abjZrDlXF4aJcoHiIfDN-42">
+        <mxCell id="3ReWD6wKKO1XdUFeQlDn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=12;strokeColor=#DDA15E;" edge="1" parent="1" source="abjZrDlXF4aJcoHiIfDN-1" target="3ReWD6wKKO1XdUFeQlDn-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-1" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 50px;&quot;&gt;&lt;b&gt;CUBS&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
-          <mxGeometry x="-2141" y="524" width="320" height="203" as="geometry" />
+        <mxCell id="abjZrDlXF4aJcoHiIfDN-1" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 50px;&quot;&gt;&lt;b&gt;CUBS&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" parent="1" vertex="1">
+          <mxGeometry x="-2099" y="595" width="320" height="203" as="geometry" />
         </mxCell>
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-3" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontFamily=Tahoma;fontSize=64;fontColor=#FFD505;strokeColor=#DDA15E;fillColor=#BC6C25;arcSize=19;" vertex="1" parent="1">
-          <mxGeometry x="-1473" y="154" width="330" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-4" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontFamily=Tahoma;fontSize=64;fontColor=#FFD505;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
-          <mxGeometry x="-1473" y="623.75" width="340" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-5" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontFamily=Tahoma;fontSize=64;fontColor=#FFD505;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
-          <mxGeometry x="-1473" y="922" width="340" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-6" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontFamily=Tahoma;fontSize=64;fontColor=#FFD505;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
-          <mxGeometry x="-1473" y="1281" width="340" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-13" value="&lt;b&gt;FRONT SUSPENSION&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=43;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1458" y="169" width="300" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-15" value="&lt;b&gt;ENGINE FIT&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=43;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1461" y="638.75" width="300" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-16" value="&lt;b&gt;RADIATOR&lt;br&gt;FIT&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=43;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1453" y="937" width="300" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-17" value="&lt;b&gt;FRONT AND REAR AXLE FIT&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=43;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1453" y="1296" width="300" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-20" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=40;fontColor=#FFFFFF;strokeColor=#DDA15E;strokeWidth=12;fillColor=#BC6C25;" edge="1" parent="1" source="abjZrDlXF4aJcoHiIfDN-19" target="abjZrDlXF4aJcoHiIfDN-4">
+        <mxCell id="3ReWD6wKKO1XdUFeQlDn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#DDA15E;strokeWidth=12;" edge="1" parent="1" source="abjZrDlXF4aJcoHiIfDN-3" target="abjZrDlXF4aJcoHiIfDN-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-19" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=40;fontColor=#FFFFFF;strokeColor=#DDA15E;fillColor=#BC6C25;flipH=1;size=-10;" vertex="1" parent="1">
-          <mxGeometry x="-1013" y="620" width="410" height="197.5" as="geometry" />
-        </mxCell>
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-27" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=35;fontColor=#FFFFFF;strokeColor=#DDA15E;strokeWidth=12;fillColor=#BC6C25;" edge="1" parent="1" source="abjZrDlXF4aJcoHiIfDN-23" target="abjZrDlXF4aJcoHiIfDN-3">
+        <mxCell id="3ReWD6wKKO1XdUFeQlDn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#DDA15E;strokeWidth=12;" edge="1" parent="1" source="abjZrDlXF4aJcoHiIfDN-3" target="abjZrDlXF4aJcoHiIfDN-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-23" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=40;fontColor=#FFFFFF;strokeColor=#DDA15E;fillColor=#BC6C25;flipH=1;size=-10;" vertex="1" parent="1">
-          <mxGeometry x="-1013" y="149" width="403" height="200" as="geometry" />
+        <mxCell id="abjZrDlXF4aJcoHiIfDN-3" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontFamily=Tahoma;fontSize=64;fontColor=#FFD505;strokeColor=#DDA15E;fillColor=#BC6C25;arcSize=19;" parent="1" vertex="1">
+          <mxGeometry x="-1438" y="225" width="337" height="206" as="geometry" />
         </mxCell>
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-30" value="&lt;b&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;Rack and pinion steering (LH/RH) fit, Transfer link fit.&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=43;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-994.5" y="171.35" width="373" height="155.31" as="geometry" />
-        </mxCell>
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-32" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Engine arrives from Engine SUB with the help of AGV&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=43;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-990.5" y="641.09" width="365" height="155.31" as="geometry" />
-        </mxCell>
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-39" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=36;fontColor=#FFFFFF;strokeColor=#DDA15E;strokeWidth=12;fillColor=#BC6C25;" edge="1" parent="1" source="abjZrDlXF4aJcoHiIfDN-33" target="abjZrDlXF4aJcoHiIfDN-5">
+        <mxCell id="3ReWD6wKKO1XdUFeQlDn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=36;strokeColor=#DDA15E;strokeWidth=12;" edge="1" parent="1" source="abjZrDlXF4aJcoHiIfDN-4" target="abjZrDlXF4aJcoHiIfDN-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-33" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=40;fontColor=#FFFFFF;strokeColor=#DDA15E;fillColor=#BC6C25;flipH=1;size=-10;" vertex="1" parent="1">
-          <mxGeometry x="-933.75" y="874" width="730" height="286" as="geometry" />
+        <mxCell id="abjZrDlXF4aJcoHiIfDN-4" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontFamily=Tahoma;fontSize=64;fontColor=#FFD505;strokeColor=#DDA15E;fillColor=#BC6C25;" parent="1" vertex="1">
+          <mxGeometry x="-1431" y="654.75" width="340" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-38" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=36;fontColor=#FFFFFF;strokeColor=#DDA15E;strokeWidth=12;fillColor=#BC6C25;" edge="1" parent="1" source="abjZrDlXF4aJcoHiIfDN-35" target="abjZrDlXF4aJcoHiIfDN-6">
+        <mxCell id="3ReWD6wKKO1XdUFeQlDn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=37;strokeColor=#DDA15E;strokeWidth=12;" edge="1" parent="1" source="abjZrDlXF4aJcoHiIfDN-5" target="abjZrDlXF4aJcoHiIfDN-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-35" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=40;fontColor=#FFFFFF;strokeColor=#DDA15E;fillColor=#BC6C25;flipH=1;size=-10;" vertex="1" parent="1">
-          <mxGeometry x="-933.75" y="1246" width="700" height="260" as="geometry" />
+        <mxCell id="abjZrDlXF4aJcoHiIfDN-5" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontFamily=Tahoma;fontSize=64;fontColor=#FFD505;strokeColor=#DDA15E;fillColor=#BC6C25;" parent="1" vertex="1">
+          <mxGeometry x="-1431" y="993" width="340" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-36" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Front axle is fitted to the drive shaft which comes&amp;nbsp; attached with the engine. And Rear axle is fitted on the jig&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=43;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-898.5" y="1256" width="630" height="240" as="geometry" />
+        <mxCell id="abjZrDlXF4aJcoHiIfDN-6" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontFamily=Tahoma;fontSize=64;fontColor=#FFD505;strokeColor=#DDA15E;fillColor=#BC6C25;" parent="1" vertex="1">
+          <mxGeometry x="-1431" y="1352" width="340" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-40" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Radiator arrives as a single piece from the supplier warehouse. Which is stored on set of trays that are delivered to the CUBS with help of forklifts&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=43;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-894" y="908.1700000000001" width="650.5" height="217.66" as="geometry" />
+        <mxCell id="abjZrDlXF4aJcoHiIfDN-13" value="&lt;b&gt;FRONT AXLE &amp;amp; SUSPENSION&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=43;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-1419.5" y="248" width="300" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-42" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontFamily=Tahoma;fontSize=64;fontColor=#FFD505;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
-          <mxGeometry x="-1473" y="393" width="340" height="190" as="geometry" />
+        <mxCell id="abjZrDlXF4aJcoHiIfDN-15" value="&lt;b&gt;ENGINE FIT&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=43;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-1419" y="669.75" width="300" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="abjZrDlXF4aJcoHiIfDN-43" value="&lt;b&gt;STRUT SUB ASSY&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=43;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1453" y="408" width="300" height="160" as="geometry" />
+        <mxCell id="abjZrDlXF4aJcoHiIfDN-16" value="&lt;b&gt;RADIATOR&lt;br&gt;FIT&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=43;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-1411" y="1008" width="300" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="abjZrDlXF4aJcoHiIfDN-17" value="&lt;b&gt;REAR AXLE FIT&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=43;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-1411" y="1367" width="300" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="abjZrDlXF4aJcoHiIfDN-19" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=0;fontFamily=Tahoma;fontSize=40;fontColor=#FFFFFF;strokeColor=#DDA15E;fillColor=#BC6C25;flipH=1;size=-10;arcSize=46;" parent="1" vertex="1">
+          <mxGeometry x="-898" y="624.75" width="493" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="3ReWD6wKKO1XdUFeQlDn-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=37;strokeColor=#DDA15E;strokeWidth=12;" edge="1" parent="1" source="abjZrDlXF4aJcoHiIfDN-23" target="3ReWD6wKKO1XdUFeQlDn-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="abjZrDlXF4aJcoHiIfDN-23" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=0;fontFamily=Tahoma;fontSize=40;fontColor=#FFFFFF;strokeColor=#DDA15E;fillColor=#BC6C25;flipH=1;size=-70;arcSize=31;" parent="1" vertex="1">
+          <mxGeometry x="-971" y="111" width="381" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="abjZrDlXF4aJcoHiIfDN-30" value="&lt;b style=&quot;font-size: 36px;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;Rack and pinion steering (LH/RH) fit, Transfer link fit.&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=36;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-956" y="133.35" width="373" height="155.31" as="geometry" />
+        </mxCell>
+        <mxCell id="abjZrDlXF4aJcoHiIfDN-32" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;font-size: 36px;&quot;&gt;Engine fitted with transmission&amp;nbsp; arrives from Engine SUB with the help of AGV&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=36;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-871.5" y="634.75" width="440" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="3ReWD6wKKO1XdUFeQlDn-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=37;strokeColor=#DDA15E;strokeWidth=12;" edge="1" parent="1" source="abjZrDlXF4aJcoHiIfDN-33" target="3ReWD6wKKO1XdUFeQlDn-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="abjZrDlXF4aJcoHiIfDN-33" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=0;fontFamily=Tahoma;fontSize=40;fontColor=#FFFFFF;strokeColor=#DDA15E;fillColor=#BC6C25;flipH=1;size=-10;arcSize=50;" parent="1" vertex="1">
+          <mxGeometry x="-966" y="945" width="730" height="286" as="geometry" />
+        </mxCell>
+        <mxCell id="abjZrDlXF4aJcoHiIfDN-38" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=36;fontColor=#FFFFFF;strokeColor=#DDA15E;strokeWidth=12;fillColor=#BC6C25;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="abjZrDlXF4aJcoHiIfDN-6" target="abjZrDlXF4aJcoHiIfDN-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="abjZrDlXF4aJcoHiIfDN-35" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=0;fontFamily=Tahoma;fontSize=40;fontColor=#FFFFFF;strokeColor=#DDA15E;fillColor=#BC6C25;flipH=1;size=-10;arcSize=50;" parent="1" vertex="1">
+          <mxGeometry x="-951" y="1355" width="700" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="abjZrDlXF4aJcoHiIfDN-36" value="&lt;b&gt;Rear axle is fitted on the jig with the wheel drum&amp;nbsp;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=36;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-901" y="1399" width="630" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="abjZrDlXF4aJcoHiIfDN-40" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;font-size: 36px;&quot;&gt;Radiator arrives as a single piece from the supplier warehouse. Which is stored on set of trays that are delivered to the CUBS with help of forklifts&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=36;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-926.25" y="979.1700000000001" width="650.5" height="217.66" as="geometry" />
+        </mxCell>
+        <mxCell id="3ReWD6wKKO1XdUFeQlDn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=37;strokeColor=#DDA15E;strokeWidth=12;" edge="1" parent="1" source="abjZrDlXF4aJcoHiIfDN-42" target="3ReWD6wKKO1XdUFeQlDn-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="abjZrDlXF4aJcoHiIfDN-42" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontFamily=Tahoma;fontSize=64;fontColor=#FFD505;strokeColor=#DDA15E;fillColor=#BC6C25;arcSize=8;" parent="1" vertex="1">
+          <mxGeometry x="-971" y="371" width="340" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="abjZrDlXF4aJcoHiIfDN-43" value="&lt;b style=&quot;font-size: 37px;&quot;&gt;&lt;font style=&quot;font-size: 37px;&quot;&gt;STRUT SUB ASSY&lt;/font&gt;&lt;br style=&quot;font-size: 37px;&quot;&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=37;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-951" y="386" width="300" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3ReWD6wKKO1XdUFeQlDn-3" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="-2134" y="931" width="390" height="171.25" as="geometry" />
+        </mxCell>
+        <mxCell id="3ReWD6wKKO1XdUFeQlDn-4" value="&lt;b&gt;Front wheel drive&amp;nbsp;&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Tahoma;fontSize=43;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-2118.75" y="972.25" width="359.5" height="103.6" as="geometry" />
+        </mxCell>
+        <mxCell id="3ReWD6wKKO1XdUFeQlDn-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.pinimg.com/originals/92/47/e3/9247e37150e7b20b7cbdf04f393104fe.png;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="64" width="718.37" height="528" as="geometry" />
+        </mxCell>
+        <mxCell id="3ReWD6wKKO1XdUFeQlDn-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.roughtrax4x4.com/media/catalog/product/cache/18844361176c4db2753e9ef5e0ed678f/r/a/rad001_new-min_1.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="990" width="317.65" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
