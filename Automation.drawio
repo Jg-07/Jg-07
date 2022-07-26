@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T08:18:34.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" version="20.1.4" etag="kLX8QmifNSzg3lyVfA65" type="github"><diagram id="8219tJQhiwcL8MTEZduW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-26T08:38:38.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="WesFYwe7Ga4Ur1JWVc5z" version="20.1.4" type="github">
+  <diagram id="8219tJQhiwcL8MTEZduW" name="Page-1">
+    <mxGraphModel dx="5213" dy="3147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" background="#182E3E" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VolwqzmVTqNwFb93vZqx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=100;strokeWidth=20;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="1" source="VolwqzmVTqNwFb93vZqx-1" target="VolwqzmVTqNwFb93vZqx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VolwqzmVTqNwFb93vZqx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=100;strokeWidth=20;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="1" source="VolwqzmVTqNwFb93vZqx-1" target="VolwqzmVTqNwFb93vZqx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VolwqzmVTqNwFb93vZqx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=100;strokeWidth=20;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" parent="1" source="VolwqzmVTqNwFb93vZqx-1" target="VolwqzmVTqNwFb93vZqx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VolwqzmVTqNwFb93vZqx-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="440" width="865" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="VolwqzmVTqNwFb93vZqx-2" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;&lt;b&gt;Truck unloading Automation&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="1192.5" y="475" width="820" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="VolwqzmVTqNwFb93vZqx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.439;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=90;fontColor=#FFFFFF;strokeColor=#FFFFFF;strokeWidth=20;" edge="1" parent="1" source="VolwqzmVTqNwFb93vZqx-3" target="VolwqzmVTqNwFb93vZqx-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VolwqzmVTqNwFb93vZqx-3" value="Forklift&lt;br&gt;(Active)&lt;br&gt;85% Automation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=100;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="195" y="1107" width="800" height="506" as="geometry" />
+        </mxCell>
+        <mxCell id="VolwqzmVTqNwFb93vZqx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=90;fontColor=#FFFFFF;strokeColor=#FFFFFF;strokeWidth=20;" edge="1" parent="1" source="VolwqzmVTqNwFb93vZqx-4" target="VolwqzmVTqNwFb93vZqx-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VolwqzmVTqNwFb93vZqx-4" value="Auto Puller Ramp&lt;br&gt;(Active)&lt;br&gt;90% Automation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=100;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="1132.5" y="1114" width="940" height="528" as="geometry" />
+        </mxCell>
+        <mxCell id="VolwqzmVTqNwFb93vZqx-5" value="Scissor Lift with AGV&lt;br&gt;95% Automation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=100;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="2275" y="1122" width="830" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="VolwqzmVTqNwFb93vZqx-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1910" width="890" height="940" as="geometry" />
+        </mxCell>
+        <mxCell id="VolwqzmVTqNwFb93vZqx-16" value="&lt;div style=&quot;font-size: 90px;&quot;&gt;&lt;ul&gt;&lt;li&gt;Skilled works needed&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Maintaince cost&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Not economic&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Limited number of forklift can only be used&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1930" width="710" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="VolwqzmVTqNwFb93vZqx-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="1960" width="890" height="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="VolwqzmVTqNwFb93vZqx-20" value="&lt;div style=&quot;font-size: 90px;&quot;&gt;&lt;ul&gt;&lt;li&gt;High Installation cost&amp;nbsp;&lt;/li&gt;&lt;li&gt;Fixed&lt;/li&gt;&lt;li&gt;Requires forklift to transfer the trolleys from the temporary warehouse to the line.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="2050" width="710" height="900" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
