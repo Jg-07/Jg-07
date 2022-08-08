@@ -1,1 +1,122 @@
-<mxfile host="app.diagrams.net" modified="2022-07-29T11:08:16.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" version="20.2.2" etag="Sq6D1fDI4OazONtejX_g" type="github"><diagram id="9UpBscRC4Nt68O9aae_b">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-08T08:58:01.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36" etag="7CIcAUj1PiE4l8Bp0u3n" version="20.2.3" type="github">
+  <diagram id="9UpBscRC4Nt68O9aae_b" name="Page-1">
+    <mxGraphModel dx="3910" dy="2360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#283618" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;strokeWidth=4;" edge="1" parent="1" source="oeTiQ1avtxJu5INmqkvq-1" target="oeTiQ1avtxJu5INmqkvq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;strokeWidth=4;" edge="1" parent="1" source="oeTiQ1avtxJu5INmqkvq-1" target="oeTiQ1avtxJu5INmqkvq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;strokeWidth=4;" edge="1" parent="1" source="oeTiQ1avtxJu5INmqkvq-1" target="oeTiQ1avtxJu5INmqkvq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;strokeWidth=4;" edge="1" parent="1" source="oeTiQ1avtxJu5INmqkvq-1" target="oeTiQ1avtxJu5INmqkvq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;strokeWidth=4;" edge="1" parent="1" source="oeTiQ1avtxJu5INmqkvq-1" target="oeTiQ1avtxJu5INmqkvq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="140" y="570" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-3" value="&lt;b&gt;Trim-B&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="585" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-4" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 24px;&quot;&gt;PKB nut &lt;br&gt;tightening&amp;nbsp;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=27;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="425" y="290" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-5" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Fasten main harness electrical earth&lt;/font&gt;&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=27;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="425" y="410" width="275" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-6" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Vin Label pasting&lt;/font&gt;&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=27;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="425" y="560" width="225" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-7" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;FRT seat belt fastening&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=27;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="425" y="700" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;fontColor=#FEFAE0;strokeColor=#DDA15E;strokeWidth=4;fillColor=#BC6C25;" edge="1" parent="1" source="oeTiQ1avtxJu5INmqkvq-8" target="oeTiQ1avtxJu5INmqkvq-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;fontColor=#FEFAE0;strokeColor=#DDA15E;strokeWidth=4;fillColor=#BC6C25;" edge="1" parent="1" source="oeTiQ1avtxJu5INmqkvq-8" target="oeTiQ1avtxJu5INmqkvq-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=24;fontColor=#FEFAE0;strokeColor=#DDA15E;strokeWidth=4;fillColor=#BC6C25;" edge="1" parent="1" source="oeTiQ1avtxJu5INmqkvq-8" target="oeTiQ1avtxJu5INmqkvq-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="535" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-8" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;Glass sub assy&lt;/font&gt;&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=27;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="425" y="830" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Tahoma;fontSize=24;fontColor=#FEFAE0;strokeColor=#DDA15E;strokeWidth=4;fillColor=#BC6C25;" edge="1" parent="1" source="oeTiQ1avtxJu5INmqkvq-14" target="oeTiQ1avtxJu5INmqkvq-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-14" value="&lt;font face=&quot;Tahoma&quot;&gt;Primer application for wind-shield body opening&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="740" y="720" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=24;fontColor=#FEFAE0;strokeColor=#DDA15E;strokeWidth=4;fillColor=#BC6C25;" edge="1" parent="1" source="oeTiQ1avtxJu5INmqkvq-16" target="oeTiQ1avtxJu5INmqkvq-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-16" value="Sealant paste application on wind-shield" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="740" y="870" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-18" value="The sealant may dry up thus water may leak in.&amp;nbsp;&lt;br&gt;In order to avoid this from happening the primer is being applied&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=24;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="760" width="340" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Tahoma;fontSize=24;fontColor=#FEFAE0;strokeColor=#DDA15E;strokeWidth=4;fillColor=#BC6C25;" edge="1" parent="1" source="oeTiQ1avtxJu5INmqkvq-23" target="oeTiQ1avtxJu5INmqkvq-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-52" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=24;fontColor=#FEFAE0;strokeColor=#DDA15E;strokeWidth=7;fillColor=#BC6C25;rounded=1;" edge="1" parent="1" source="oeTiQ1avtxJu5INmqkvq-23" target="oeTiQ1avtxJu5INmqkvq-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-23" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Tahoma;fontSize=24;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1040" width="440" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-24" value="The process of sealant application and glass fitting on the car are done with the help of a pick and place robot from YASKAWA." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=24;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="615" y="1052.5" width="390" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-30" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://img.interempresas.net/fotos/1077422.jpeg;" vertex="1" parent="1">
+          <mxGeometry x="1087" y="1076.25" width="188.21" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-42" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=24;fontColor=#FEFAE0;strokeWidth=7;strokeColor=#FFFFFF;" edge="1" parent="1" source="oeTiQ1avtxJu5INmqkvq-33" target="oeTiQ1avtxJu5INmqkvq-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-33" value="Glass transferred from the trolley to the conveyor. At the end of the conveyor a actuator pushes the glass up to a certain height." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=24;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1390" width="420" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-43" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=24;fontColor=#FEFAE0;strokeColor=#FFFFFF;strokeWidth=7;fillColor=#BC6C25;" edge="1" parent="1" source="oeTiQ1avtxJu5INmqkvq-35" target="oeTiQ1avtxJu5INmqkvq-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-35" value="The bot picks the glass with the help of suction cup." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=24;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="1640" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-44" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=24;fontColor=#FEFAE0;strokeColor=#FFFFFF;strokeWidth=7;fillColor=#BC6C25;" edge="1" parent="1" source="oeTiQ1avtxJu5INmqkvq-36" target="oeTiQ1avtxJu5INmqkvq-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-36" value="The primer is then applied&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=24;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1970" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-45" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=24;fontColor=#FEFAE0;strokeColor=#FFFFFF;strokeWidth=7;fillColor=#BC6C25;" edge="1" parent="1" source="oeTiQ1avtxJu5INmqkvq-37" target="oeTiQ1avtxJu5INmqkvq-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-37" value="The sealant is then applied by the bot with the help of another machine which supplies sealant from its outlet periodically" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=24;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1935" width="420" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-47" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;fontSize=24;fontColor=#FEFAE0;strokeColor=#FFFFFF;strokeWidth=7;fillColor=#BC6C25;" edge="1" parent="1" source="oeTiQ1avtxJu5INmqkvq-38" target="oeTiQ1avtxJu5INmqkvq-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-38" value="Once the sealant is applied the glass wind-shield is then transferred to another conveyor trolley which goes to the glass trim assembly on trim-B line" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=24;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1650" width="485" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oeTiQ1avtxJu5INmqkvq-49" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=24;fontColor=#FEFAE0;strokeColor=#DDA15E;strokeWidth=8;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1360" width="1530" height="750" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
