@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-22T14:22:54.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="1oi3wpdfx78EpZCeQvaI" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-22T14:31:43.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="lj3pCjEjSklkjw448ohu" version="20.3.3" type="github">
   <diagram id="BGWGkgLMyAdBaMP6oyrn" name="Page-1">
-    <mxGraphModel dx="2805" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2414" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,7 +172,7 @@
         <mxCell id="y_amz6faZG2FhMSJh341-48" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;arcSize=7;fillColor=#FFFF99;strokeColor=#d6b656;align=center;" vertex="1" parent="y_amz6faZG2FhMSJh341-51">
           <mxGeometry width="400" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="y_amz6faZG2FhMSJh341-50" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;We will try to use the eddy current which gets induced to during this process to produce a mild amount of damping effect. Hence some amount of energy will be still lost as heat but &lt;/b&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;at least&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;we hope to capture the 60% of the overall energy absorbed by the suspension and convert it as useful electrical energy.&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=18;" vertex="1" parent="y_amz6faZG2FhMSJh341-51">
+        <mxCell id="y_amz6faZG2FhMSJh341-50" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;We will try to use the eddy current which gets induced during this process to produce a mild amount of dampening effect. Hence some amount of energy will be still lost as heat but &lt;/b&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;at least&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;we hope to capture the 60% of the overall energy absorbed by the suspension and convert it as useful electrical energy.&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=18;" vertex="1" parent="y_amz6faZG2FhMSJh341-51">
           <mxGeometry x="20.680000000000064" y="16.379999999999995" width="358.63" height="149.25" as="geometry" />
         </mxCell>
         <mxCell id="y_amz6faZG2FhMSJh341-53" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;fontSize=18;" edge="1" parent="1" source="y_amz6faZG2FhMSJh341-40" target="y_amz6faZG2FhMSJh341-48">
